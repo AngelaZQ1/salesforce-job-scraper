@@ -1,0 +1,7 @@
+{
+  "from_email": "your-email@gmail.com",
+  "to_email": "your-email@gmail.com",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "password": "your-app-password"
+}
